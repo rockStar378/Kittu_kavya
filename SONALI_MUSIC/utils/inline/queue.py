@@ -75,10 +75,10 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="˹❍ᴡηєʀ ᴀʙσᴜᴛ˼ ", url=f"https://t.me/KRITI_UPDATE"
+                text="˹❍ᴡηєʀ ᴀʙσᴜᴛ˼ ", url=f"https://t.me/ARISHFA_UPDATE"
             ),
             InlineKeyboardButton(
-                text="˹ᴄʜᴧᴛ ɢʀσᴜᴘ˼", url=f"https://t.me/KRITI_SUPPORT_CHAT"
+                text="˹ᴄʜᴧᴛ ɢʀσᴜᴘ˼", url=f"https://t.me/+5c6C7tK1gEFlM2Nl"
             ),
         ],
       ]
