@@ -16,6 +16,7 @@ heroku3
 apscheduler
 motor 
 numpy
+#pillow==10.3.0
 pillow==9.5.0
 psutil
 wget
