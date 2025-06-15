@@ -53,3 +53,4 @@ pycryptodome
 opencv-python
 googlesearch-python
 sympy
+bing_image_downloader
