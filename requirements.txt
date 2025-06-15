@@ -52,7 +52,6 @@ python-telegram-bot
 pycryptodome
 opencv-python
 bing-image-urls
-bing_image_downloader
-git+https://github.com/TEAMPURVI/PurviAPI
+bing_image_downloade
 googlesearch-python
 sympy
