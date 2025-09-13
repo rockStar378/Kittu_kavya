@@ -13,7 +13,7 @@ start_txt = """**
  
 ❉ ᴘᴧʜʟє ᴘᴧᴘᴧ ʙσʟ ʀєᴘᴏ ᴏᴡηєʀ ᴋᴏ 
 
-✼ || [ɪsᴛᴋʜᴀʀ-ʙᴧʙʏ](https://t.me/ARISHFA_UPDATE) ||
+✼ || [ANKIT-ʙᴧʙʏ](https://t.me/FUNS_ZONE) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
