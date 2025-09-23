@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @Jio_savan_music_bot @ll_YOU_NOW_BADNAM_ll I love You 😘
+ єxᴧϻᴘʟє : @kavya_music_robot @VIP_ANKIT_121 I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -402,19 +402,19 @@ class Helper(object):
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[тєᴧϻ ᴀʀɪғsʜᴀ](https://t.me/ARISHFA_UPDATE)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[тєᴧϻ kavya](https://t.me/shree_update)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [╾╼⃝𖠁 𝐏ᴜᴊᴀ⟡𝐌ᴜsɪᴄ 𖠁⃝╾╾](https://t.me/PUJAMUSICBOT) : ᴧʟɪᴠє 
+╭⎋ [╾•─╼⃝𖠁𝗕𝐇𝗼𝗼𝐌ɪrobosɪᴄ𖠁⃝╾─•](https://t.me/Bhoomimusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ ˹ɴᴇʜᴀ ꭙ мᴜsɪᴄ˼](https://t.me/nehaMusicRoBot) : ᴧʟɪᴠє 
+╭⎋ [ ˹SHREE ꭙ мᴜsɪᴄ˼](https://t.me/Shremusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴀɴɴᴜ ꭙ ϻυsɪᴄ](https://t.me/Annusongbot) : ᴧʟɪᴠє 
+╭⎋ [KANHA ꭙ ϻυsɪᴄ](https://t.me/KANHA_MIX_MUSIC_bot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
