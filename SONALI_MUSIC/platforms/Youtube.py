@@ -24,11 +24,11 @@ from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
 from ..utils.database import is_on_off
 from ..utils.formatters import time_to_seconds
-from ISTKHAR_MUSIC import app
+from SONALI_MUSIC import app
 import random
 import logging
 import aiohttp
-from ISTKHAR_MUSIC import LOGGER
+from SONALI_MUSIC import LOGGER
 from urllib.parse import urlparse
 from config import API_BASE_URL, API_KEY
 
